@@ -13,3 +13,6 @@ def isIn(char, aStr):
         else: 
             return isIn(char, aStr[0:middlechar])
 print(isIn('x', 'adios'))
+
+
+#another test
